@@ -1,0 +1,75 @@
+body {
+  background-color: #2C3639;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 5rem;
+  color: #DCD7C9;
+  margin-top: 5%;
+  margin-bottom: 0;
+  border: 5px solid #3F4E4F;
+  width: 60%;
+  border-radius: 2%;
+}
+h1:hover {
+  background-color: #3F4E4F;
+}
+
+.container {
+  padding: 5%;
+}
+
+/* Buttons */
+.btn {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  border: 5px solid #3F4E4F;
+  border-radius: 2%;
+  margin: 1rem;
+}
+#fgreen {
+  /* Flash animation color: #A9F1DF */
+  background-color: #A9F1DF; 
+}
+.green {
+  background-color: #1EAE98;
+}
+#fred {
+  /* Flash animation color: #F806CC */
+  background-color: #F806CC;
+}
+.red {
+  background-color: #A91079;
+}
+#fyellow {
+  /* Flash animation color: #FFF9B0 */
+  background-color: #FFF9B0;
+}
+.yellow {
+  background-color: #FFD384;
+}
+#fblue {
+  /* Flash animation color: #0096FF */
+  background-color: #0096FF;
+}
+.blue {
+  background-color: #5800FF;
+}
+.gameOverOne {
+  background-color: #850E35;
+}
+.gameOverTwo {
+  background-color: #EE6983;
+}
+
+
+
+/* Google fonts
+font-family: 'Press Start 2P', cursive;
+font-family: 'Quicksand', sans-serif;
+*/
+/* https://colorhunt.co/palette/2c36393f4e4fa27b5cdcd7c9 Color Pallete */
